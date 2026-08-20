@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ekran Süresi</string>
+    <string name="accessibility_service_description">Kısıtlı ekranları algılar ve geri çıkar.</string>
+    <string name="nudge_channel_name">Screen time reminders</string>
+    <string name="nudge_title">Screen time check-in</string>
+    <string name="nudge_message">You have been using this app for %1$d minutes.</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="usage_access">Manage usage access</string>
+    <string name="blocking_access">Manage blocking access</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="all_apps">All apps</string>
+    <string name="games">Games</string>
+    <string name="choose_day">Choose a day</string>
+    <string name="no_usage">No usage data found for this period.</string>
+    <string name="daily_usage">Today’s usage</string>
+    <string name="apps_count">Apps</string>
+    <string name="daily_limit">Daily limit</string>
+    <string name="top_app">Most used</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="turkish">Turkish</string>
+    <string name="daily_summary">Daily AI summary</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ekran Süresi</string>
+    <string name="accessibility_service_description">Kullanıcının belirlediği kısıtlı ekranları algılar.</string>
+    <string name="nudge_channel_name">Ekran süresi hatırlatıcıları</string>
+    <string name="nudge_title">Ekran süresi kontrolü</string>
+    <string name="nudge_message">Bu uygulamayı %1$d dakikadır kullanıyorsunuz.</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="usage_access">Kullanım erişimini yönet</string>
+    <string name="blocking_access">Engelleme erişimini yönet</string>
+    <string name="today">Bugün</string>
+    <string name="yesterday">Dün</string>
+    <string name="all_apps">Tüm uygulamalar</string>
+    <string name="games">Oyunlar</string>
+    <string name="choose_day">Bir gün seç</string>
+    <string name="no_usage">Bu aralıkta kullanım verisi bulunamadı.</string>
+    <string name="daily_usage">Bugünkü kullanım</string>
+    <string name="apps_count">Uygulamalar</string>
+    <string name="daily_limit">Günlük limit</string>
+    <string name="top_app">En çok kullanılan</string>
+    <string name="language">Dil</string>
+    <string name="english">İngilizce</string>
+    <string name="turkish">Türkçe</string>
+    <string name="daily_summary">Günlük AI özeti</string>
+</resources>
